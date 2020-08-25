@@ -1,0 +1,11 @@
+D:\Programming\GitHub\Send_SMS\send_sms\send_sms\bin\Debug\send_sms.exe.config
+D:\Programming\GitHub\Send_SMS\send_sms\send_sms\bin\Debug\send_sms.exe
+D:\Programming\GitHub\Send_SMS\send_sms\send_sms\bin\Debug\send_sms.pdb
+D:\Programming\GitHub\Send_SMS\send_sms\send_sms\obj\Debug\send_sms.csprojAssemblyReference.cache
+D:\Programming\GitHub\Send_SMS\send_sms\send_sms\obj\Debug\send_sms.Form1.resources
+D:\Programming\GitHub\Send_SMS\send_sms\send_sms\obj\Debug\send_sms.Properties.Resources.resources
+D:\Programming\GitHub\Send_SMS\send_sms\send_sms\obj\Debug\send_sms.csproj.GenerateResource.cache
+D:\Programming\GitHub\Send_SMS\send_sms\send_sms\obj\Debug\send_sms.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\Send_SMS\send_sms\send_sms\obj\Debug\send_sms.exe
+D:\Programming\GitHub\Send_SMS\send_sms\send_sms\obj\Debug\send_sms.pdb
+D:\Programming\GitHub\Send_SMS\send_sms\send_sms\bin\Debug\Message.accdb
